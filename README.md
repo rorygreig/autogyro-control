@@ -1,2 +1,4 @@
 # autogyro-control
-Modified Arduplane control firmware to fly an autogyro UAV
+Modified Arduplane control firmware to fly an autogyro UAV.
+
+Project website: http://www.rorygreig.com/autogyro/project_report.pdf
